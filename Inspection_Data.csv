@@ -1,0 +1,11 @@
+Device_ID,Inspection_Date,Measured_Value,Lower_Limit,Upper_Limit,Inspector,Inspection_Status
+MD001,01-10-2026,10.2,9.5,10.5,Ravi,Pass
+MD002,01-10-2026,11,9.5,10.5,Anita,Review
+MD003,02-10-2026,9,9.5,10.5,Ravi,Review
+MD004,02-10-2026,10.1,9.5,10.5,,Review
+MD005,03-10-2026,10,9.5,10.5,Anita,Pass
+MD006,03-10-2026,10.4,9.5,10.5,Ravi,Pass
+MD007,04-10-2026,12,9.5,10.5,Anita,Review
+MD008,04-10-2026,9.8,9.5,10.5,Ravi,Pass
+MD009,05-10-2026,10.3,9.5,10.5,,Review
+MD010,05-10-2026,10,9.5,10.5,Anita,Pass
